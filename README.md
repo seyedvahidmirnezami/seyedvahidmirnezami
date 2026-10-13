@@ -20,6 +20,7 @@ I co-create **[LatentQuest](https://www.udemy.com/course/master-transformers-fro
 | Repo | What you'll build |
 |---|---|
 | [self-attention-from-scratch](https://github.com/seyedvahidmirnezami/self-attention-from-scratch) | Self-attention with real numbers, in NumPy and PyTorch |
+| [transformer-encoder-pytorch](https://github.com/seyedvahidmirnezami/transformer-encoder-pytorch) | The full transformer encoder, and why positional encoding matters |
 | [vision-transformer-cassava](https://github.com/seyedvahidmirnezami/vision-transformer-cassava) | Fine-tune a Vision Transformer on Kaggle leaf images |
 | [semantic-search-two-tower](https://github.com/seyedvahidmirnezami/semantic-search-two-tower) | Two-tower retrieval and cross-encoder re-ranking from scratch |
 
