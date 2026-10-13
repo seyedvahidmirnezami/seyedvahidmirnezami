@@ -1,6 +1,6 @@
 ### Hi, I'm Vahid 👋
 
-Senior Computer Vision Scientist working on deep learning, generative AI, and vision–language models for production systems. Graduate research at Iowa State University on machine learning and computer vision for plant phenotyping and high-throughput image analysis.
+Senior Computer Vision Scientist at Bayer Crop Science, working on deep learning, generative AI, and vision–language models for production systems. Ph.D. in Mechanical Engineering (minors in Computer Science and Plant Breeding) from Iowa State University, with research on machine learning and computer vision for high-throughput plant phenotyping.
 
 I co-create **[LatentQuest](https://www.udemy.com/course/master-transformers-from-scratch-bert-vit-ai-search/)** courses with [Mohammad R. Khalili Shoja](https://github.com/khalili65). We teach AI the way we wish we'd learned it: work through the math with real numbers, implement it in PyTorch, then ship real projects.
 
