@@ -2,13 +2,13 @@
 
 Senior Computer Vision Scientist working on deep learning, generative AI, and vision–language models for production systems. Graduate research at Iowa State University on machine learning and computer vision for plant phenotyping and high-throughput image analysis.
 
-I co-create **[LatentQuest](https://www.udemy.com/course/master-transformers-from-scratch-bert-vit-ai-search/)** courses with [Mohammad R. Khalili Shoja](https://github.com/khalili65). We teach AI the way we wish we'd learned it: work through the math with real numbers, implement it in PyTorch, then ship real projects.
+I co-create **[LatentQuest](https://latentquest.ai/)** courses with [Mohammad R. Khalili Shoja](https://github.com/khalili65). We teach AI the way we wish we'd learned it: work through the math with real numbers, implement it in PyTorch, then ship real projects.
 
 ---
 
 #### 🎓 Course: Master Transformers from Scratch: BERT, ViT & AI Search
 
-[![Udemy](https://img.shields.io/badge/Enroll%20on-Udemy-A435F0?logo=udemy&logoColor=white)](https://www.udemy.com/course/master-transformers-from-scratch-bert-vit-ai-search/)
+[![Udemy](https://img.shields.io/badge/Enroll%20on-Udemy-A435F0?logo=udemy&logoColor=white)](https://www.udemy.com/course/master-transformers-from-scratch-bert-vit-ai-search/?referralCode=741D2251A98D41859FB9)
 
 - **Attention from first principles:** self-attention with real numbers, Q/K/V, multi-head attention, encoder blocks, positional encoding
 - **BERT in PyTorch:** masked-language-model pretraining, text classification, named entity recognition, distillation to DistilBERT
